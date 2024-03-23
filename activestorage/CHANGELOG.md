@@ -63,4 +63,8 @@
 
     *Yogesh Khater*
 
+*   Allow overriding of `primary_key` on `has_one_attached` and `has_many_attached` relations.
+
+    *Jonah George*
+
 Please check [7-1-stable](https://github.com/rails/rails/blob/7-1-stable/activestorage/CHANGELOG.md) for previous changes.
